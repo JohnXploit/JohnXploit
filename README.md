@@ -126,24 +126,6 @@ root@primesec:~# ops --list
   └──────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JohnXploit&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## `// CONTRIBUTION GRID`
-
-<div align="center">
-
-![Snake](https://github.com/JohnXploit/JohnXploit/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<sub>→ activate: Settings → Actions → Allow all → add [platane/snk](https://github.com/platane/snk)</sub>
-
 ---
 
 ## `// ESTABLISH CONNECTION`
