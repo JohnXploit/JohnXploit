@@ -1,7 +1,7 @@
 <!-- ░░░░░░ PRIMESEC // JohnXploit ░░░░░░ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JohnXploit/JohnXploit/main/primesec_logo.png" width="140" alt="PRIMESEC Logo"/>
+<img src="https://github.com/JohnXploit/JohnXploit/blob/main/2df85ed28132561016e48e42da052163.png?raw=true" width="140" alt="PRIMESEC Logo"/>
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
