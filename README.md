@@ -169,7 +169,7 @@ root@primesec:~# ops --list
 ```
 
 <div align="center">
-<sub><code>☠ &nbsp; no location &nbsp;◈&nbsp; no trace &nbsp;◈&nbsp; no mercy &nbsp; ☠</code></sub>
+<sub><code>Try Harder</code></sub>
 </div>
 
 <!-- EOF ░░░ JohnXploit // PRIMESEC ░░░ -->
