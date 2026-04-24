@@ -1,58 +1,55 @@
-<!-- ░░░░░░ PRIMESEC // JohnXploit ░░░░░░ -->
+<!-- ░░░ PRIMESEC // JohnXploit ░░░ -->
 
 <div align="center">
-<img src="https://github.com/JohnXploit/JohnXploit/blob/main/2df85ed28132561016e48e42da052163.png?raw=true" width="140" alt="PRIMESEC Logo"/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                              ▓
-▓  [ // P R I M E S E C // ]  ── Advanced Security Research     ▓
-▓  ───────────────────────────────────────────────────────────  ▓
-▓  Red Team Operations | Exploit Development | Pentest Tools    ▓
-▓                                                              ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<img src="https://raw.githubusercontent.com/JohnXploit/JohnXploit/main/primesec_banner.png" width="100%" alt="PRIMESEC // JohnXploit"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=700&color=CC0000&center=true&vCenter=true&width=720&lines=Recon+phase+active...;Target+acquired;Operator+online;PRIMESEC+Network+engaged;Origin+masked;Trace+NULL)](https://github.com/JohnXploit)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=700&color=CC0000&center=true&vCenter=true&width=720&lines=Scanning+for+vulnerabilities...;Signal+traced+to+%3A+%2FPrimeJ%CF%83%D0%BD%D0%98+%E1%B4%BE%CB%A2;Network+%3A+%5B+%2F%2F+PRIMESEC+%2F%2F+%5D;Origin+%3A+%5B+REDACTED+%5D+%7C+Location+%3A+%5B+CLASSIFIED+%5D;Trace+result+%3A+NULL+%2F%2F+NULL+%2F%2F+NULL;You+were+never+supposed+to+find+this.)](https://github.com/JohnXploit)
 
 </div>
 
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  root@primesec:~# whoami --context                                  │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  root@primesec:~# whoami --verbose                               │
+└──────────────────────────────────────────────────────────────────┘
 
-  OPERATOR    PrimeJohn ᴾˢ (JohnXploit)
-  ROLE        Red Team Lead | Tool Developer | Pentester
-  NETWORK     [ // PRIMESEC // ] ── Security Research Collective
-  CLEARANCE   OMEGA
-  SPECIALTY   Exploit Dev | Reverse Engineering | C2 Frameworks
-  STATUS      ● ACTIVE | EVASIVE | OPERATIONAL
+  HANDLE      /𝑃𝑟𝑖𝑚𝑒JσнИ ᴾˢ
+  ALIAS       JohnXploit
+  NETWORK     [ // PRIMESEC // ]  ──  Founder & Controller
+  ROLE        Developer  ◈  Builder  ◈  Operator
+  CLEARANCE   ░░░░░░░░░░  OMEGA
+  ORIGIN      [CLASSIFIED]
+  LOCATION    [REDACTED]
+  IP          0.0.0.0  ──  good luck
+  TRACE       ████████████████████  NULL
+  STATUS      ● ONLINE   SILENT   WATCHING
 
-  "Silent entry. Clean exit. Zero trace."
+  > The quieter you are, the more you hear.
 ```
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JohnXploit&color=8b0000&style=flat-square&label=profile+views)](https://github.com/JohnXploit)
-&nbsp;&nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/JohnXploit?style=flat-square&color=cc0000&label=followers&logo=github&logoColor=cc0000)](https://github.com/JohnXploit)
+![](https://komarev.com/ghpvc/?username=JohnXploit&color=8b0000&style=flat-square&label=observers+logged)
+&nbsp;&nbsp;
+[![](https://img.shields.io/github/followers/JohnXploit?style=flat-square&color=cc0000&label=network+agents&logo=github&logoColor=cc0000)](https://github.com/JohnXploit)
 
 </div>
 
 ---
 
-## `// CORE CAPABILITIES`
+## `// SIGNAL TRACE`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnXploit&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=8B0000&text_color=888888&count_private=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnXploit&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=8B0000&text_color=888888&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnXploit&layout=compact&hide_border=true&bg_color=000000&title_color=CC0000&text_color=888888&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnXploit&layout=compact&hide_border=true&bg_color=000000&title_color=CC0000&text_color=888888)
 
 ![Streak](https://streak-stats.demolab.com?user=JohnXploit&theme=dark&hide_border=true&background=000000&stroke=CC0000&ring=8B0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=555555)
 
@@ -60,118 +57,137 @@
 
 ---
 
-## `// TECH STACK`
+## `// ARSENAL`
 
 <details open>
-<summary><code>▦ Exploit Development & Red Team</code></summary>
+<summary><code>◈ STACK — CLASSIFIED</code></summary>
 <br>
 
-| Category | Technologies | Proficiency |
-|----------|--------------|-------------|
-| **Exploit Dev** | Python, C, C++, Assembly | `████████████` Elite |
-| **Scripting** | Bash, PowerShell, Go | `██████████░░` Expert |
-| **Web Attacks** | JavaScript, Node.js, PHP | `████████░░░░` Advanced |
-| **Networking** | TCP/IP, Wireshark, Nmap | `█████████░░░` Expert |
-| **Infra** | Docker, Kubernetes, AWS | `███████░░░░░` Proficient |
+| Vector | Weapons | Level |
+|--------|---------|-------|
+| `◈` Scripting | Python, Bash, Shell | `████████████` LETHAL |
+| `◈` Systems | C, C++ | `█████████░░░` ADVANCED |
+| `◈` Web | HTML, CSS, JavaScript | `████████░░░░` PROFICIENT |
+| `◈` Infrastructure | Node.js, APIs, Git | `███████░░░░░` OPERATIONAL |
+| `◈` Networks | TCP/IP, Protocols | `████████░░░░` PROFICIENT |
 
 </details>
 
-<details open>
-<summary><code>▦ Pentest Arsenal</code></summary>
+<details>
+<summary><code>◈ TOOLS — FULL LOADOUT</code></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-DD0000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-E23732?style=for-the-badge&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=CC0000)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=8B0000)
+![Bash](https://img.shields.io/badge/BASH-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=CC0000)
+![JavaScript](https://img.shields.io/badge/JS-0a0a0a?style=for-the-badge&logo=javascript&logoColor=8B0000)
+![Linux](https://img.shields.io/badge/LINUX-0a0a0a?style=for-the-badge&logo=linux&logoColor=CC0000)
+![Git](https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=8B0000)
+![VSCode](https://img.shields.io/badge/VSCODE-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=CC0000)
+![Node](https://img.shields.io/badge/NODE-0a0a0a?style=for-the-badge&logo=node.js&logoColor=8B0000)
+![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=CC0000)
+![Discord](https://img.shields.io/badge/DISCORD-0a0a0a?style=for-the-badge&logo=discord&logoColor=8B0000)
 
 </details>
 
 ---
 
-## `// ACTIVE OPERATIONS`
+## `// ACTIVE OPS`
 
 ```
-root@primesec:~# ops --status
+root@primesec:~# ops --list
 
-  ┌─────────────────────────────────────────────────────────────┐
-  │  OP-ID  │ CODENAME          │ TARGET      │ STATUS         │
-  ├─────────┼───────────────────┼─────────────┼────────────────┤
-  │ OP-001  │ Network Hub       │ Discord     │ ████████░░ 80% │
-  │ OP-002  │ Pentest Suite     │ Python/Go   │ ██████░░░░ 60% │
-  │ OP-003  │ C2 Framework      │ C++/Python  │ ████░░░░░░ 40% │
-  │ OP-004  │ Web Exploit Kit   │ Node.js     │ ██░░░░░░░░ 20% │
-  └─────────┴───────────────────┴─────────────┴────────────────┘
-
-  [ 4 ACTIVE | 0 COMPROMISED | 0 DETECTED ]
+  ┌──────────────────────────────────────────────────────────────┐
+  │  ID      CODENAME               STACK          PROGRESS      │
+  │  ────────────────────────────────────────────────────────    │
+  │  OP-01   PRIMESEC NETWORK HUB   Discord/Web    ████████░░    │
+  │  OP-02   PORTFOLIO NODE         HTML/CSS/JS    █████░░░░░    │
+  │  OP-03   TOOL SUITE v1          Python/Bash    ███░░░░░░░    │
+  │  OP-04   RECON FRAMEWORK        C/Python       █░░░░░░░░░    │
+  │  ────────────────────────────────────────────────────────    │
+  │  STATUS  4 running  ◈  0 failed  ◈  0 compromised           │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `// ENGAGEMENT HISTORY`
+## `// MISSION LOG`
 
 ```
-root@primesec:~# cat /var/log/ops.log
-
-  ┌─────────────────────────────────────────────────────────────┐
-  │  TIMESTAMP  │  MISSION              │  OUTCOME       │
-  ├────────────┼───────────────────────┼────────────────┤
-  │ 2025-01    │ PRIMESEC Network     │ ✅ LIVE        │
-  │ 2025-02    │ Silent Logger        │ ✅ DEPLOYED    │
-  │ 2025-03    │ Recon Framework      │ ✅ OPERATIONAL │
-  │ 2025-04    │ Community Ops        │ 🔄 ACTIVE      │
-  └────────────┴───────────────────────┴────────────────┘
+  ┌──────────────────────────────────────────────────────────────┐
+  │  RECORD               DESCRIPTION                 STATE      │
+  │  ─────────────────────────────────────────────────────────   │
+  │  COMMUNITY ARCHITECT  Built [ // PRIMESEC // ]   COMPLETE    │
+  │  CODE PHANTOM         Silent output, no trace    COMPLETE    │
+  │  OPEN SOURCE GHOST    Active presence, no noise  COMPLETE    │
+  │  KNOWLEDGE OPERATIVE  Community builder           ACTIVE      │
+  │  SHADOW BUILDER       ??? [REDACTED]              LOCKED      │
+  │  DARK ARCHITECT       ??? [CLASSIFIED]            LOCKED      │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
-![Trophies](https://github-profile-trophy.vercel.app/?username=JohnXploit&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&row=1&margin-h=4)
-</div>
 
----
-
-## `// CONTRIBUTION MATRIX`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnXploit&theme=gruvbox&hide_border=true&bg_color=000000&color=CC0000&line=CC0000&point=8B0000"/>
-</div>
-
-<sub><strong>→</strong> Contribution graph auto-updates from GitHub activity</sub>
-
----
-
-## `// SECURE CHANNELS`
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=000000)](https://discord.gg/primesec-1414146515139559495)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnXploit)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=000000)](https://x.com/johnxploit)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JohnXploit&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
 ---
 
+## `// CONTRIBUTION GRID`
+
+<div align="center">
+
+![Snake](https://github.com/JohnXploit/JohnXploit/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<sub>→ activate: Settings → Actions → Allow all → add [platane/snk](https://github.com/platane/snk)</sub>
+
+---
+
+## `// ESTABLISH CONNECTION`
+
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  "Invisibility is the ultimate weapon.                              │
-│   They can't defend what they can't detect."                        │
-│                                                                     │
-│                            ── PrimeJohn ᴾˢ                          │
-│                                                                     │
-│  [ // PRIMESEC // ]  ── Professional Red Team Operations            │
-└─────────────────────────────────────────────────────────────────────┘
+  root@primesec:~# connect --secure --anonymous
+
+  Routing through encrypted nodes...
+  Stripping metadata...
+  Masking origin...
+
+  ████████████████████████████████████████  DONE
+
+  ✔  Channel secured
+  ✔  Identity masked
+  ✔  Endpoint: [ // PRIMESEC // ]
+  ✔  Ready.
 ```
 
 <div align="center">
-<sub><code>🔒 OPSEC | Zero Trace | Professional Operations Only 🔒</code></sub>
+
+[![Discord](https://img.shields.io/badge/%5B_//_PRIMESEC_//_Network_%5D-000000?style=for-the-badge&logo=discord&logoColor=CC0000)](https://discord.gg/primesec-1414146515139559495)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/github.com/JohnXploit-000000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/JohnXploit)
+
 </div>
 
-<!-- EOF ░░░░░░ PRIMESEC // JohnXploit ░░░░░░ -->
+---
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  "The most dangerous ones                                        │
+│   are the ones you never see coming."                            │
+│                                                                  │
+│                    ── /𝑃𝑟𝑖𝑚𝑒JσнИ ᴾˢ  //  JohnXploit           │
+│                                                                  │
+│  [ // PRIMESEC // ]  ──  We are the network.                    │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<sub><code>☠ &nbsp; no location &nbsp;◈&nbsp; no trace &nbsp;◈&nbsp; no mercy &nbsp; ☠</code></sub>
+</div>
+
+<!-- EOF ░░░ JohnXploit // PRIMESEC ░░░ -->
