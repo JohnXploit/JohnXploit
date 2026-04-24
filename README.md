@@ -17,11 +17,11 @@
 │  root@primesec:~# whoami --verbose                               │
 └──────────────────────────────────────────────────────────────────┘
 
-  HANDLE      /𝑃𝑟𝑖𝑚𝑒JσнИ ᴾˢ
+  HANDLE      JohnXploit
   ALIAS       JohnXploit
   NETWORK     [ // PRIMESEC // ]  ──  Founder & Controller
   ROLE        Developer  ◈  Builder  ◈  Operator
-  CLEARANCE   ░░░░░░░░░░  OMEGA
+  CLEARANCE   ██████████  ΣIGMA
   ORIGIN      [CLASSIFIED]
   LOCATION    [REDACTED]
   IP          0.0.0.0  ──  good luck
