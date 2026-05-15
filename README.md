@@ -47,8 +47,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnXploit&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=8B0000&text_color=888888&count_private=true)
-
 ![Streak](https://streak-stats.demolab.com?user=JohnXploit&theme=dark&hide_border=true&background=000000&stroke=CC0000&ring=8B0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=555555)
 
 </div>
