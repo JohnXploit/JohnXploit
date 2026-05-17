@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JohnXploit/JohnXploit/main/primesec_banner.png" width="100%" alt="PRIMESEC // JohnXploit"/>
 
 <br/>
 
