@@ -1,4 +1,4 @@
-<!-- ░░░ PRIMESEC // JohnXploit ░░░ -->
+<!-- ░░░ PRIMESEC // ! JσнИ ᛋ¹⁴⁸⁸† ツ ░░░ -->
 
 <div align="center">
 
@@ -17,8 +17,8 @@
 │  root@primesec:~# whoami --verbose                               │
 └──────────────────────────────────────────────────────────────────┘
 
-  HANDLE      JohnXploit
-  ALIAS       JohnXploit
+  HANDLE      ! JσнИ ᛋ¹⁴⁸⁸† ツ
+  ALIAS       ! JσнИ ᛋ¹⁴⁸⁸† ツ
   NETWORK     [ // PRIMESEC // ]  ──  Founder & Controller
   ROLE        Developer  ◈  Builder  ◈  Operator
   CLEARANCE   ██████████  ΣIGMA
@@ -157,7 +157,7 @@ root@primesec:~# ops --list
 │  "The most dangerous ones                                        │
 │   are the ones you never see coming."                            │
 │                                                                  │
-│                    ── /𝑃𝑟𝑖𝑚𝑒JσнИ ᴾˢ  //  JohnXploit           │
+│                    ── ! JσнИ ᛋ¹⁴⁸⁸† ツ           │
 │                                                                  │
 │  [ // PRIMESEC // ]  ──  We are the network.                    │
 │                                                                  │
@@ -168,4 +168,4 @@ root@primesec:~# ops --list
 <sub><code>Try Harder</code></sub>
 </div>
 
-<!-- EOF ░░░ JohnXploit // PRIMESEC ░░░ -->
+<!-- EOF ░░░ ! JσнИ ᛋ¹⁴⁸⁸† ツ // PRIMESEC ░░░ -->
